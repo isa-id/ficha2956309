@@ -85,6 +85,7 @@ header nav ul li a:hover{
     padding: 10px;
     background-image: linear-gradient(220deg, rgba(27, 18, 32, 0.7) 10%, rgba(65, 54, 95, 0.7) 90%);
     display: flex;
+    justify-content: space-between  ;
     flex-direction: row;
 }
 
